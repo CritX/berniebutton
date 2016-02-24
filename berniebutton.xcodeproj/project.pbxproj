@@ -14,6 +14,7 @@
 		E1F844591C7DFB0600949D52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1F844571C7DFB0600949D52 /* LaunchScreen.storyboard */; };
 		E1F844641C7DFB0600949D52 /* berniebuttonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F844631C7DFB0600949D52 /* berniebuttonTests.swift */; };
 		E1F8446F1C7DFB0600949D52 /* berniebuttonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F8446E1C7DFB0600949D52 /* berniebuttonUITests.swift */; };
+		E1F8447D1C7DFBBF00949D52 /* photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1F8447C1C7DFBBF00949D52 /* photo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E1F8446A1C7DFB0600949D52 /* berniebuttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = berniebuttonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1F8446E1C7DFB0600949D52 /* berniebuttonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = berniebuttonUITests.swift; sourceTree = "<group>"; };
 		E1F844701C7DFB0600949D52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1F8447C1C7DFBBF00949D52 /* photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo.jpg; path = ../bernie/bernie/Assets.xcassets/photo.imageset/photo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				E1F844621C7DFB0600949D52 /* berniebuttonTests */,
 				E1F8446D1C7DFB0600949D52 /* berniebuttonUITests */,
 				E1F8444C1C7DFB0600949D52 /* Products */,
+				E1F8447C1C7DFBBF00949D52 /* photo.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -231,6 +234,7 @@
 			files = (
 				E1F844591C7DFB0600949D52 /* LaunchScreen.storyboard in Resources */,
 				E1F844561C7DFB0600949D52 /* Assets.xcassets in Resources */,
+				E1F8447D1C7DFBBF00949D52 /* photo.jpg in Resources */,
 				E1F844541C7DFB0600949D52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
